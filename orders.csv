@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,city,category,quantity,unit_price,total
+1001,C001,2024-01-05,Johannesburg,Grocery,5,20,100
+1002,C002,2024-01-06,Pretoria,Electronics,1,1500,1500
+1003,C001,2024-01-06,Johannesburg,Grocery,10,18,180
+1004,C003,2024-01-07,Cape Town,Clothing,3,300,900
+1005,C004,2024-01-08,Durban,Grocery,8,22,176
+1006,C002,2024-01-09,Pretoria,Electronics,2,1400,2800
+1007,C003,2024-01-10,Cape Town,Grocery,6,25,150
+1008,C005,2024-01-11,Johannesburg,Clothing,4,350,1400
+1009,C004,2024-01-12,Durban,Electronics,1,1200,1200
+1010,C001,2024-01-13,Johannesburg,Grocery,12,19,228
